@@ -23,7 +23,6 @@ This project is built using Java and demonstrates CRUD operations and basic cons
 
 4. Use the menu to interact with the task manager.
 
-## 📌 Project Structure
 ## 📌 Screenshots
 Screenshots are available in the **Screenshots** folder.
 
