@@ -15,7 +15,7 @@ This project is built using Java and demonstrates CRUD operations and basic cons
 
 ## 📌 How to Run
 1. Clone the repository:
-   git clone https://github.com/Bayan-IT/TaskManagerProject
+   git clone https://github.com/Bayan-IT/TaskManagementProject
 
 2. Open the project in VS Code or IntelliJ.
 
