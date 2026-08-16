@@ -27,7 +27,6 @@ This project is built using Java and demonstrates CRUD operations and basic cons
 Screenshots are available in the **Screenshots** folder.
 
 ## 📌 Future Improvements
-- Add database support (SQLite)  
 - Add user authentication  
 - Add recurring tasks  
 - Export tasks to CSV or PDF
